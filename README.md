@@ -17,7 +17,9 @@ You select a pdf file to split. Specify page number where split should happen. N
 
 **Example:**
 ```
-Keep in mind if you have pdf file with 10 pages and you specify number _3_. The split happens every 3rd page. The output will be 4 pdf files where three files with three pages and one pdf file with one page.
+Keep in mind if you have pdf file with 10 pages and you specify number _3_.
+The split happens every 3rd page.
+The output will be 4 pdf files where three files with three pages and one pdf file with one page.
 ```
 
 PS. unfortunately there is problem with relative path on Mac machines, so please use folders. You need to perform actions inside the folder. the generated file always appear on one directory higher that you are.
