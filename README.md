@@ -15,8 +15,9 @@ You select two pdf files and give a name to output pdf file. It generates new pd
 
 You select a pdf file to split. Specify page number where split should happen. New files will be generated with predefined names *spltted_0*, *splitted_1*, etc...
 
-Example:
+**Example:**
+```
 Keep in mind if you have pdf file with 10 pages and you specify number _3_. The split happens every 3rd page. The output will be 4 pdf files where three files with three pages and one pdf file with one page.
+```
 
-
-PS. unfortunately there is problem with the relative path on Mac machines, so please use folders. You need to do it inside of the folder, the generated file always appear on one directory higher that you are.
+PS. unfortunately there is problem with relative path on Mac machines, so please use folders. You need to perform actions inside the folder. the generated file always appear on one directory higher that you are.
