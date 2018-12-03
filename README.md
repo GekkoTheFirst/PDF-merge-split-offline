@@ -7,17 +7,17 @@ There are two tabs
 2) Split - split 1 pdf file into 2 or more pdf files
 
 ### Merge
-
+![Merge](https://raw.githubusercontent.com/GekkoTheFirst/PDF-merge-split-offline/img/merge.jpg)
 You select two pdf files and give a name to output pdf file. It generates new pdf fie in the same folder.
 
 
 ### Split
-
+![Split](https://raw.githubusercontent.com/GekkoTheFirst/PDF-merge-split-offline/img/split.jpg)
 You select a pdf file to split. Specify page number where split should happen. New files will be generated with predefined names *spltted_0*, *splitted_1*, etc...
 
 **Example:**
 ```
-Keep in mind if you have pdf file with 10 pages and you specify number _3_.
+Keep in mind if you have pdf file with 10 pages and you specify number 3.
 The split happens every 3rd page.
 The output will be 4 pdf files where three files with three pages and one pdf file with one page.
 ```
